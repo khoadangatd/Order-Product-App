@@ -21,3 +21,6 @@ Organized by components, services, hooks, and helpers.
 Separation of Concerns: UI is handled by Ant Design
 
 Suspense & Async Data: Used React Suspense to wrap the ProductList. This allows for a clean "Skeleton" loading state while the simulated API (800ms delay) fetches data.
+
+### 🧠 LIVE
+https://khoadangatd.github.io/Order-Product-App/

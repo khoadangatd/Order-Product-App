@@ -1,0 +1,30 @@
+[
+  {
+    "category": "Pain Relief",
+    "id": 1,
+    "isPrescription": false,
+    "name": "Paracetamol 500mg",
+    "price": 15000
+  },
+  {
+    "category": "Antibiotic",
+    "id": 2,
+    "isPrescription": true,
+    "name": "Amoxicillin 500mg",
+    "price": 45000
+  },
+  {
+    "category": "Supplement",
+    "id": 3,
+    "isPrescription": false,
+    "name": "Vitamin C 1000mg",
+    "price": 30000
+  },
+  {
+    "category": "Allergy",
+    "id": 4,
+    "isPrescription": false,
+    "name": "Cetirizine 10mg",
+    "price": 20000
+  }
+]

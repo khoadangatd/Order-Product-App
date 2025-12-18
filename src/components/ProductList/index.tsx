@@ -12,7 +12,7 @@ const ProductList: FC<{ productsPromise: Promise<Product[]> }> = ({
   if (!products.length) {
     return (
       <Card>
-        <Empty description="Không tìm thấy sản phẩm" />
+        <Empty description="Not Found" />
       </Card>
     );
   }

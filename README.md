@@ -1,12 +1,12 @@
-# React + TypeScript + Vite
+# Order Product App
 ![Tên mô tả ảnh](./public/screenshot.png)
-🚀 How to Run
+# 🧠 TECHNICAL DECISIONS
 1. Clone the repository
 2. Install dependencies: `npm install`
 3. Run the development server: `npm run dev`
 4. Open http://localhost:5173 in your browser
 
-🧠 Technical Decisions
+# 🧠 TECHNICAL DECISIONS
 Product Listing: Simulated API with deliberate delay for loading state demo.
 Search & Filter: Debounced search to optimize performance.
 Cart Management: Full CRUD (Create, Read, Update, Delete) for shopping cart.

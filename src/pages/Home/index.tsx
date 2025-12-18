@@ -51,9 +51,7 @@ const Home: FC = () => {
   return (
     <div className="home-wrapper">
       <h1>APP</h1>
-      <CategoryFilter
-        onFilterCategory={onFilterCategory}
-      />
+      <CategoryFilter onFilterCategory={onFilterCategory} />
       <SearchBar onChange={onSearchChange} />
       <Row gutter={16} className="product-list">
         <Col xs={24} xl={16}>
